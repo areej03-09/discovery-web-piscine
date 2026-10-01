@@ -1,40 +1,40 @@
 dev_workspace:
 total 20
-drwxrwxr-x 5 kali kali 4096 Oct  1 06:37 .
-drwxrwxr-x 8 kali kali 4096 Oct  1 06:37 ..
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:37 archives
-drwxrwxr-x 3 kali kali 4096 Oct  1 06:38 projects
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:37 tools
+drwxrwxr-x 5 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 8 kali kali 4096 Oct  1 06:43 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 archives
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:43 projects
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 tools
 
 dev_workspace/archives:
 total 8
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:37 .
-drwxrwxr-x 5 kali kali 4096 Oct  1 06:37 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 5 kali kali 4096 Oct  1 06:43 ..
 
 dev_workspace/projects:
 total 12
-drwxrwxr-x 3 kali kali 4096 Oct  1 06:38 .
-drwxrwxr-x 5 kali kali 4096 Oct  1 06:37 ..
-drwxrwxr-x 4 kali kali 4096 Oct  1 06:38 web
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 5 kali kali 4096 Oct  1 06:43 ..
+drwxrwxr-x 4 kali kali 4096 Oct  1 06:43 web
 
 dev_workspace/projects/web:
 total 16
-drwxrwxr-x 4 kali kali 4096 Oct  1 06:38 .
-drwxrwxr-x 3 kali kali 4096 Oct  1 06:38 ..
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:38 backend
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:38 frontend
+drwxrwxr-x 4 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 3 kali kali 4096 Oct  1 06:43 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 backend
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 frontend
 
 dev_workspace/projects/web/backend:
 total 8
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:38 .
-drwxrwxr-x 4 kali kali 4096 Oct  1 06:38 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 4 kali kali 4096 Oct  1 06:43 ..
 
 dev_workspace/projects/web/frontend:
 total 8
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:38 .
-drwxrwxr-x 4 kali kali 4096 Oct  1 06:38 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 4 kali kali 4096 Oct  1 06:43 ..
 
 dev_workspace/tools:
 total 8
-drwxrwxr-x 2 kali kali 4096 Oct  1 06:37 .
-drwxrwxr-x 5 kali kali 4096 Oct  1 06:37 ..
+drwxrwxr-x 2 kali kali 4096 Oct  1 06:43 .
+drwxrwxr-x 5 kali kali 4096 Oct  1 06:43 ..
