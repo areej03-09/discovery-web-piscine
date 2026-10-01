@@ -1,0 +1,5 @@
+1. Edit: Modified or created files within the workspace.
+2. Add: git add <filename> (stages changes for commit).
+3. Commit: git commit -m "commit message" (saves changes to local repository history).
+4. Push: git push (uploads local commits to the remote GitHub repository).
+
