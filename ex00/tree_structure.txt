@@ -1,0 +1,22 @@
+.:
+total 20
+drwxrwxr-x 5 kali kali 4096 Sep 30 15:27 .
+drwxrwxr-x 4 kali kali 4096 Sep 30 15:25 ..
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 archives
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 projects
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 tools
+
+./archives:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 15:27 ..
+
+./projects:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 15:27 ..
+
+./tools:
+total 8
+drwxrwxr-x 2 kali kali 4096 Sep 30 15:20 .
+drwxrwxr-x 5 kali kali 4096 Sep 30 15:27 ..
